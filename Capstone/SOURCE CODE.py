@@ -36,7 +36,7 @@ app.add_middleware(
 )
 
 gemini_client = genai.Client(
-    api_key="AQ.Ab8RN6LoX6W0_9DAItFa3lXP8Pf6QConTN1QWBnhg01bACCtDQ"
+    api_key="YOUR_API_KEY"
 )
 
 BASE_DIR = Path(__file__).resolve().parent
